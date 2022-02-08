@@ -5,6 +5,6 @@ A simple code to create varchar auto ID in php.
 
 2. Import this php file in your code.
 
-3. Insert GeneratedAutoID function into a variable.
+3. Insert AutoID function into a variable.
 
 4. Your auto ID is generated.
